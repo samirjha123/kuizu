@@ -1,6 +1,5 @@
 var questions = [
     {question: "あさごはん", choices: {a: "Breakfast", b: "Lunch", c: "Dinner"}, answer: "a"},
-    {question: "あさって", choices: {a: "The day after tomorrow", b: "The day before yesterday", c: "Yesterday"}, answer: "a"},
     {question: "あそぶ", choices: {a: "Sleep", b: "Play", c: "Walk"}, answer: "b"},
     {question: "あたたかい", choices: {a: "Warm", b: "Hot", c: "Dance"}, answer: "a"},
     {question: "あたま", choices: {a: "Leg", b: "Ear", c: "Head"}, answer: "c"},
@@ -8,8 +7,12 @@ var questions = [
     {question: "あに", choices: {a: "Older brother", b: "Younger brother", c: "Older sister"}, answer: "a"},
     {question: "あまい", choices: {a: "Sour", b: "Salty", c: "Sweet"}, answer: "c"},
     {question: "あるく", choices: {a: "Sleep", b: "Dance", c: "Walk"}, answer: "c"},
+    {question: "あさって", choices: {a: "The day after tomorrow", b: "The day before yesterday", c: "Yesterday"}, answer: "a"},
     {question: "あれ", choices: {a: "this one", b: "that one", c: "only one"}, answer: "b"},
-    {question: "あね", choices: {a: "Older brother", b: "Younger brother", c: "Older sister"}, answer: "c"}
+    {question: "あね", choices: {a: "Older brother", b: "Younger brother", c: "Older sister"}, answer: "c"},
+    {question: "あめ", choices: {a: "rain", b: "water", c: "wine"}, answer: "a"},
+    {question: "あぶない", choices: {a: "festival", b: "dangerous", c: "simple"}, answer: "b"},
+    {question: "あさ", choices: {a: "evening", b: "afternoon", c: "morning"}, answer: "b"}
 ];
 
 function quiz(){
