@@ -12,7 +12,9 @@ var questions = [
     {question: "あね", choices: {a: "Older brother", b: "Younger brother", c: "Older sister"}, answer: "c"},
     {question: "あめ", choices: {a: "rain", b: "water", c: "wine"}, answer: "a"},
     {question: "あぶない", choices: {a: "festival", b: "dangerous", c: "simple"}, answer: "b"},
-    {question: "あさ", choices: {a: "evening", b: "afternoon", c: "morning"}, answer: "b"}
+    {question: "あさ", choices: {a: "evening", b: "afternoon", c: "morning"}, answer: "c"},
+    {question: "あげる", choices: {a: "give", b: "take", c: "open"}, answer: "a"},
+    {question: "あかい", choices: {a: "red", b: "blue", c: "black"}, answer: "a"}
 ];
 
 function quiz(){
