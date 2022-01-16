@@ -1,18 +1,25 @@
 Japanese,English,Sentence
 People:
-わたし [Watashi],I,わたしはいまからおふろにはいります。<br>Watashi wa ima kara ofuro ni hairimasu<br>I will go in the tub from now
-がくせい [Gakusei],Student,わたしはがくせいです。<br>watashi wa gakusei desu]<br>I am a student.
-せんせい [Sensei],Teacher,わたしの父はせんせいです。<br>Watashi no chichi wa sensei desu<br>My father is a teacher.
-ともだち [Tomodachi],Friend,かれはわたしのともだちです。<br>kare wa watashi no tomodachi desu]<br>He is a friend of mine.
+わたし<br>Watashi,I,わたしはいまからおふろにはいります。<br>Watashi wa ima kara ofuro ni hairimasu<br>I will go in the tub from now
+がくせい<br>Gakusei,Student,わたしはがくせいです。<br>watashi wa gakusei desu<br>I am a student.
+せんせい<br>Sensei,Teacher,わたしの父はせんせいです。<br>Watashi no chichi wa sensei desu<br>My father is a teacher.
+ともだち<br>Tomodachi,Friend,かれはわたしのともだちです。<br>kare wa watashi no tomodachi desu<br>He is a friend of mine.
 ,,
 ,,
 Body Parts:
-かお [Kao],Face,
-かみ [Kami],Hair,
-あたま [Atama],Head,
-みみ [Mimi],Ear,
-め [me],Eye,
-はな [Hana],Nose,
+かお<br>Kao,Face,
+かみ<br>Kami,Hair,
+あたま<br>Atama,Head,
+みみ<br>Mimi,Ear,
+め<br>me,Eye,
+はな<br>Hana,Nose,
+くち	<br>Kuchi,Mouth
+は<br>Ha,Teeth
+した<br>Shita,Tongue
+からだ<br>Karada,Body
+かた	<br>Kata,Shoulder
+て<br>Te,Hand
+ゆび<br>Yubi,Finger
 Numbers:
 ,,
 ,,
